@@ -1,0 +1,42 @@
+{
+    "1" : {
+        "city" : "Hyderabad, India",
+        "image" : {
+            "name" : "Hyderabad",
+            "path" : "../assets/amsterdam.png"
+        },
+        "desc" : "Hyderabad is a beautiful city"
+    },
+    "2" : {
+        "city" : "Siem Reap, Cambodia",
+        "image" : {
+            "name" : "Hyderabad",
+            "path" : "../assets/amsterdam.png"
+        },
+        "desc" : "Siem Reap is the gateway to the impressive Angkor Wat which is a Buddhist temple complex and also known as a UNESCO World Heritage Site. Beyond Angkor Wat in Cambodia, Siem Reap will offer you many interesting activities and ample attractions such as French colonial architecture, the floating villages on Tonle Sap River, vibrant night market and sacred waterfalls. With its rich culture, tasty traditional cuisine, friendly people and the highlight Angkor Wat complex, Siem Reap is a jewel of Southeast Asia."
+    },
+    "3" : {
+        "city" : "George Town, Malaysia",
+        "image" : {
+            "name" : "Hyderabad",
+            "path" : "../assets/amsterdam.png"
+        },
+        "desc" : "George Town is the capital city of Penang state and located on the west coast of Malaysia. With the special influences of Europe and Asia, this city has a unique multicultural heritage that can be found at almost every corner. Due to its rich history, natural beauty, colonial architecture and traditional gastronomy, George Town was listed by UNESCO in 2008 as a “World Heritage Site”. If you are looking for a place to step back in history with a laid back vibe atmosphere while witnessing the most beautiful historic buildings, George Town should be on your travel bucket list."
+    },
+    "4" : {
+        "city" : "Vigan, The Philippines",
+        "image" : {
+            "name" : "Hyderabad",
+            "path" : "../assets/amsterdam.png"
+        },
+        "desc" : "Whenever referring to the Philippines, a few things will immediately spring to everyone’s mind: countless white sandy beaches, delicious fruit, luxury shopping malls, thousands of inhabited and uninhabited islands. However, not many people know that the Philippines also owns a charming city with a colonial atmosphere which offers you a feeling like travelling back in time - Vigan city. This UNESCO World Heritage Site is situated in Ilocos Sur province, and this city features well-preserved Spanish-era architecture with many colonial-era merchant houses & Baroque churches. Aside from its historical significance, a holiday to Vigan can also be packed with a memorable cuisine adventure where you can feast on signature Ilocano food."
+    },
+    "5" : {
+        "city" : "Varanasi, India",
+        "image" : {
+            "name" : "Hyderabad",
+            "path" : "../assets/amsterdam.png"
+        },
+        "desc" : "Varanasi is one of the cultural gems of the country. It has an elaborate history and high importance in Hindu mythology. It is one of the oldest inhabited cities in the world. With numerous religious places and the coming together of devotees from across the world, the city makes for a colourful experience. The Ganga Aarti at the Dashashwamedh Ghat is an awe-inspiring ceremony held every day. Besides, a boat ride through the waters of Ganges during sunrise is an experience that cannot be missed. Make sure you explore the Golden Triangle with Varanasi tours."
+    }
+}
